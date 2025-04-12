@@ -1,5 +1,6 @@
 # LeNet-like Handwriting Recognition on MNIST
 Authors : Sweta Ratnani Nithin Kolan Saisreevenkat Pedarla 
+
 This project refines the classical LeNet architecture to enhance handwriting recognition on the MNIST dataset. The enhancements include deeper convolutional layers, use of ReLU activation functions, an expanded fully connected layer, and the adoption of the Adam optimizer. These modifications enable the model to achieve an accuracy exceeding 99% on the test dataset.
 
 ## Table of Contents
